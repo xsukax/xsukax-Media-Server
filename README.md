@@ -7,6 +7,8 @@
 
 A self-hosted, privacy-focused media streaming server that allows you to stream your personal movie and TV show collections from your own server with full control over your data.
 
+![](https://raw.githubusercontent.com/xsukax/xsukax-Media-Server/refs/heads/main/ScreenShot.png)
+
 ## 🎬 Project Overview
 
 xsukax Media Server is a lightweight, PHP-based media streaming solution that transforms your personal media library into a private Netflix-like experience. Built with privacy and simplicity in mind, it enables you to:
